@@ -1,3 +1,11 @@
 
 This is a test file
 Added some more lines of code for feature 1
+
+
+Added Lines for Branch B
+More lines
+More lines
+More lines
+More lines
+More lines
